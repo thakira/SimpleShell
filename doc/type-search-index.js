@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"<Unnamed>","l":"Grep"},{"p":"<Unnamed>","l":"SimpleShell"},{"p":"<Unnamed>","l":"SuperSimpleShell"}]
